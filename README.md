@@ -1,11 +1,11 @@
-### Hey 👋, This is MinseoKim
+### Hey 👋, Nice to see you.
 [![Gmail Badge](https://img.shields.io/badge/-kms12782@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kms12782@gmail.com)](mailto:kms12782@gmail.com) [![Github Badge](https://img.shields.io/badge/Minseo_dev-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Minseodev/)](https://www.github.com/Minseodev/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-Notion-pink?style=flat&link=https://www.notion.so/Minseo-dev-995bdfb4783248c892e62a9156d9f7dd/)](https://www.notion.so/Minseo-dev-995bdfb4783248c892e62a9156d9f7dd/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-medium-skyblue?style=flat&link=https://medium.com/@Minseo-dev/)](https://medium.com/@Minseo-dev/) <p align='left'>Good Luck for my code ❤️‍🔥</p>
 <br><br>
 ### Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Minseodev alt=Minseodev /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=Minseo-dev alt=Minseodev /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Minseodev&show_icons=true&include_all_commits=true)](https://github.com/Minseodev/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minseodev&layout=compact)](https://github.com/Minseodev/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Minseo-dev&show_icons=true&include_all_commits=true)](https://github.com/Minseo-dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minseo-dev&layout=compact)](https://github.com/Minseodev/github-readme-stats)
 
 <!--
 **Minseo-dev/Minseo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
