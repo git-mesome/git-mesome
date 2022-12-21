@@ -1,8 +1,10 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey , Nice to see you. </h2>
+<img align="right" width="250" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
 <p>I'm Minseo, Back-end developer in Daejeon, South Korea. :kr: </p>
+
 <br/>
 <br/>
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<p><b>:hammer_and_wrench: Technologies and Tools I use :</b></p>
 <a href="https://www.java.com/ko/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="spring" height="40"/> </a>
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="postgresql"  height="40"/> </a>
@@ -13,21 +15,23 @@
 
 <br/><br/>
 
-<h2>Some of my Github Stats </h2>
-
+<p><b>Some of my Github Stats: </b></p>
 <!--START_SECTION:waka-->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rafi0101&theme=gruvbox" />  
 <!--END_SECTION:waka-->
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Minseo-dev alt=Minseodev /> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minseo-dev&layout=compact)](https://github.com/Minseodev/github-readme-stats)
 
-- 📫 How to reach me:
-    * [**Drop a Mail**](mailto:kms12782@gmail.com)
+<img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
+<p><b>📫 How to reach me:</b></p>
 
-    * [**Visit my Blog**](https://medium.com/@Minseo-dev)
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
-</div>
+* [**Drop a Mail**](mailto:kms12782@gmail.com)
+* [**Visit my Blog**](https://medium.com/@Minseo-dev)
 
-<p>Good Luck for our code ❤️‍🔥</p>
+<br/>
+<br/>
+<br/>
+<h3 align=center> Can you break this counter?</h3>
+<p align=center> <img src=https://komarev.com/ghpvc/?username=Minseo-dev alt=Minseodev /> </p>
+<h3 align=center>Good Luck for our code ❤️‍🔥</h3>
