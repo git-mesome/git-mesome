@@ -1,5 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey , Nice to see you. </h2>
-<img align="right" width="250" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
+<img align="right" width="380" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
 <p>I'm Minseo, Back-end developer in Daejeon, South Korea. :kr: </p>
 
 <br/>
