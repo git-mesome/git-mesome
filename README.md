@@ -17,7 +17,9 @@
 
 <p><b>Some of my Github Stats: </b></p>
 <!--START_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rafi0101&theme=gruvbox" />  
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minseodev)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--END_SECTION:waka-->
 
 
@@ -33,5 +35,7 @@
 <br/>
 <br/>
 <h3 align=center> Can you break this counter?</h3>
-<p align=center> <img src=https://komarev.com/ghpvc/?username=Minseo-dev alt=Minseodev /> </p>
+<p align=center>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinseo-dev&count_bg=%23FFC000&title_bg=%23E69A9A&icon=&icon_color=%23F2F2F2&title=hits&edge_flat=false"/></a>
+</p>
 <h3 align=center>Good Luck for our code ❤️‍🔥</h3>
