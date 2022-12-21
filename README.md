@@ -16,10 +16,8 @@
 <br/><br/>
 
 <p><b>Some of my Github Stats: </b></p>
+
 <!--START_SECTION:waka-->
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minseodev)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--END_SECTION:waka-->
 
 
