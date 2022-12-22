@@ -25,7 +25,7 @@
 <br/><br/>
 
 
-<img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
+<img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="300" height="200" />
 <h2><b>📫 How to reach me:</b></h2>
 
 * [**Drop a Mail**](mailto:kms12782@gmail.com)
