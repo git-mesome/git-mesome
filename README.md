@@ -17,9 +17,6 @@
 
 <p><b>Some of my Github Stats: </b></p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minseo-dev&layout=compact)](https://github.com/Minseodev/github-readme-stats)
 <br/><br/>
