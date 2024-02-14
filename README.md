@@ -2,24 +2,8 @@
 <!--<img align="right" width="380" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">-->
 <p>I'm Minseo, Back-end developer in Daejeon, South Korea. :kr: </p>
 
-<br/>
-<br/>
-<p><b>:hammer_and_wrench: Technologies and Tools I use :</b></p>
-<a href="https://www.java.com/ko/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="spring" height="40"/> </a>
-<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="postgresql"  height="40"/> </a>
-<a href="https://aws.amazon.com/ko/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" height="40"/> </a>
-<a href="https://www.jetbrains.com/ko-kr/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" height="40"/> </a>
-<a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="git" height="40"/> </a>
-
-<br/><br/>
-
-<p><b>Some of my Github Stats: </b></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-mesome&layout=compact)](https://github.com/gitmesome/github-readme-stats)
-<br/><br/>
 
 
 <img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="300" height="200" />
