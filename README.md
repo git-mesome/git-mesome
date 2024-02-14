@@ -18,7 +18,7 @@
 <p><b>Some of my Github Stats: </b></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minseo-dev&layout=compact)](https://github.com/Minseodev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-mesome&layout=compact)](https://github.com/gitmesome/github-readme-stats)
 <br/><br/>
 
 
