@@ -9,7 +9,7 @@
 <img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="290" height="290" />
 <h2><b>📫 How to reach me:</b></h2>
 
-* [**Drop a Mail**](mailto:kms12782@gmail.com)
+* [**Drop a Mail**](mailto:misneo@kakao.com)
 * [**Visit my Blog**](https://medium.com/@Minseo-dev)
 
 <br/>
