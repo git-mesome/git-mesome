@@ -10,7 +10,7 @@
 <h2><b>📫 How to reach me:</b></h2>
 
 * [**Drop a Mail**](mailto:misneo@kakao.com)
-* [**Visit my Blog**](https://medium.com/@git-mesome)
+* [**Visit my Blog**](https://medium.com/@minseo-kim)
 
 <br/>
 <br/>
