@@ -22,6 +22,6 @@
 <h3 align=center> Can you break this counter?</h3>
 
 <p align=center>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinseo-dev&count_bg=%23FFC000&title_bg=%23E69A9A&icon=&icon_color=%23F2F2F2&title=hits&edge_flat=false"/></a>
+<a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=red&label=count&size=small" alt="hits" /></a>
 </p>
 <h3 align=center>Good Luck for our code ❤️‍🔥</h3>
